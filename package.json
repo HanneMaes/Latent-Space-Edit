@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "gm": "^1.25.0",
+    "node": "^21.1.0",
+    "node-vibrant": "^3.2.1-alpha.1",
+    "vibrant": "^0.0.1"
+  }
+}
