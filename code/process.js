@@ -3,7 +3,7 @@
 // SETTINGS
 const borderSizePercentage = 0.7; 
 
-const inputFolderPath = 'images/';
+const inputFolderPath = 'input/';
 const outputFolderPath = 'output/';
 
 //***********************************************************************************************************************************
